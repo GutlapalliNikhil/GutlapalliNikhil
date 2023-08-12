@@ -127,14 +127,14 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 |  [3D Detection - ROS](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection)|  [PointCloud Classification](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)|  [CHETAK 🐎 - The Home Service Robot](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)|
 | :-:| :-:| :-:| 
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/3D_detection.png" width = 500 height = 300/>]()| [<img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width = 500 height = 200/>]() |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/blob/main/chetak.png" width = 500 height = 300/>]()
+| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/3D_detection.png" width = 500 height = 300/>](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width = 500 height = 200/>](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/blob/main/chetak.png" width = 500 height = 300/>](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)
 
 |  [Self-Driving Wheelchair](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)|  [Autonomous Disaster Response & Reconnaissance using TurtleBot 3](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot)|  [Collaborative SLAM using Multi-Robot System](https://github.com/GutlapalliNikhil/Collaborative_SLAM)|
 | :-:| :-:| :-:| 
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/21.png" width = 500 height = 300/>]()| [<img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width = 450 height = 200/>]() |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil.github.io/blob/main/assets/img/publications/collaborative_SLAM.gif" width = 250 height = 200/>]()
+| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/21.png" width = 500 height = 300/>](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width = 450 height = 200/>](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil.github.io/blob/main/assets/img/publications/collaborative_SLAM.gif" width = 250 height = 200/>](https://github.com/GutlapalliNikhil/Collaborative_SLAM)
 
 | [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)|
 | :-:|
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>]()|
+| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)|
 
 ---
