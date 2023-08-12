@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://github.com/GutlapalliNikhil/GutlapalliNikhil.github.io/blob/main/assets/emoji_1.png" width="75" />Hi there, I'm Nikhil Chowdary 😄</h1>
+<h1 align = "center"><img src="https://github.com/GutlapalliNikhil/GutlapalliNikhil/blob/main/3q63.gif" width="30" /> Hi there, I'm Nikhil Chowdary </h1>
 
 - 👋 Hi, I’m @GutlapalliNikhil
 - 👀 I’m interested in deep learning and robotics.
