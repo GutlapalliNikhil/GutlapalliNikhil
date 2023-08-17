@@ -135,7 +135,7 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 | [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| 
 | :-:|:-:|
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src = ![ezgif com-video-to-gif](https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/ae375c98-2eb8-41be-aced-6ba06efa704c)
+| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src = "![ezgif com-video-to-gif](https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/ae375c98-2eb8-41be-aced-6ba06efa704c)"
  width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)|
 
 ---
