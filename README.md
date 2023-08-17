@@ -134,7 +134,7 @@ I'm excited to further explore the field of robotics through academic endeavors,
 | [<img src = "https://www.nikhilchowdary.com/assets/img/publications/21.png" width = 500 height = 300/>](https://github.com/GutlapalliNikhil/Install_Speech_Navigation)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/aa.png" width = 450 height = 200/>](https://github.com/deep-zspace/Autonomous_Disaster_Response_robot) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil.github.io/blob/main/assets/img/publications/collaborative_SLAM.gif" width = 250 height = 200/>](https://github.com/GutlapalliNikhil/Collaborative_SLAM)
 
 | [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| 
-| :-:|:-:|
+| :-:|:-:
 | [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/ae375c98-2eb8-41be-aced-6ba06efa704c" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)|
 
 ---
