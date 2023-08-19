@@ -138,3 +138,5 @@ I'm excited to further explore the field of robotics through academic endeavors,
 | [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width = 300 height = 200/>](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutlapalliNikhil&layout=compact)
