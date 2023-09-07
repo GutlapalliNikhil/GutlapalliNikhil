@@ -135,7 +135,7 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 | [Image Classification using Transformers](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [PointCloud Classification](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch)| [Attitude Estimation](https://github.com/GutlapalliNikhil/attitude-estimation-matlab-iphone)| 
 | :-:| :-:| :-:| 
-| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width = 300 height = 200/>](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/778ff927-5bb5-4e02-9803-b876ac766130" width = 250 height = 200/>](https://github.com/GutlapalliNikhil/attitude-estimation-matlab-iphone)
+| [<img src = "https://www.nikhilchowdary.com/assets/img/publications/image_classification.png" width = 310 height = 200/>](https://github.com/GutlapalliNikhil/ImageClassification_VIT_TransferLearning)| [<img src="https://www.nikhilchowdary.com/assets/img/publications/pointcloud_Classification.png" width = 300 height = 200/>](https://github.com/GutlapalliNikhil/Pointcloud-Classification-Pytorch) |[<img src = "https://github.com/GutlapalliNikhil/GutlapalliNikhil/assets/33520288/778ff927-5bb5-4e02-9803-b876ac766130" width = 275 height = 200/>](https://github.com/GutlapalliNikhil/attitude-estimation-matlab-iphone)
 
 ---
 
