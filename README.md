@@ -17,9 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b><i>Actively looking for Spring 2024 Co-op/Internship</i></b><br>
-</p>
 
 <div align="center">
 
